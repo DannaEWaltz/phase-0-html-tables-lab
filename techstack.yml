@@ -1,0 +1,113 @@
+repo_name: DannaEWaltz/phase-0-html-tables-lab
+report_id: f4d5ec1ece67a1bc37e5b8b1189ca006
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-02T05:56:08+00:00'
+requested_by: lizbur10
+provider: github
+branch: master
+detected_tools_count: 8
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/DannaEWaltz/phase-0-html-tables-lab
+  detection_source: Repo Metadata
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/DannaEWaltz/phase-0-html-tables-lab/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: ihollander
+  last_updated_on: 2021-11-16 15:18:12.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/DannaEWaltz/phase-0-html-tables-lab
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/DannaEWaltz/phase-0-html-tables-lab/blob/master/.github/workflows/canvas-sync-html.yml
+  detection_source: ".github/workflows/canvas-sync-html.yml"
+  last_updated_by: Liz Burton
+  last_updated_on: 2021-07-07 19:23:37.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 9.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/DannaEWaltz/phase-0-html-tables-lab/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: ihollander
+  last_updated_on: 2021-11-16 15:18:12.000000000 Z
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  version: 18.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: https://github.com/DannaEWaltz/phase-0-html-tables-lab/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: ihollander
+  last_updated_on: 2021-11-16 15:18:12.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/DannaEWaltz/phase-0-html-tables-lab/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: ihollander
+  last_updated_on: 2021-11-16 15:18:12.000000000 Z
+- name: mocha-multi
+  description: A bit of a hack to get multiple reporters working with mocha
+  package_url: https://www.npmjs.com/mocha-multi
+  version: 1.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18056/image.png
+  detection_source_url: https://github.com/DannaEWaltz/phase-0-html-tables-lab/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: ihollander
+  last_updated_on: 2021-11-16 15:18:12.000000000 Z
